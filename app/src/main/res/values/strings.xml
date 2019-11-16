@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">German Article Quiz</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again?</string>
+    <string name="position">Position</string>
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="android_trivia">German Article Quiz</string>
+    <string name="about_text">This app will help you learn the article of some nouns based on their ending.\n\n Not all German nouns must be learned together with the article. Based on their ending, you can get the right article: \n\n Der: ending in -eur, -ant, -ent, -ar, -är, -ismus, -ist, -ast, -ig, -ling, -or, -us;\n
+60% of the words ending in -el/-er\n
+80% of the words ending in -en\n
+Days, months, seasons\n\n
+
+Die: ending in -a, -anz, -enz, -ei, -ie, -ik, -in, -heit, -keit, -schaft, -tät, -sion, -tion, -ion, -und, -ung, -ur, -itis, -age;\n
+90% of the words ending in -e\n
+Most flowers and fruits\n\n
+
+Das: ending in -chen, -lein, -le, -sel, -tel, -tum, -um, -ma, -ment;\n
+90% nouns with prefix Ge-\n
+2/3 of nouns with -nis, -sal\n
+Verb infinitives used as nouns</string>
+    <string name="rules_text">Select the article from the options given. Each time you select an answer, you advance to the next question.\n\nYou can return to the title screen using up or back from within the game screen, and this will also end your game.</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+    <string name="trivia_hint">Trivia Hint</string>
+    <string name="title_android_trivia_question">Android Trivia (%1$d/%2$d)</string>
+    <string name="title_about_trivia">About Trivia</string>
+    <string name="title_trivia_rules">Trivia Rules</string>
+    <string name="share_success_text">I mastered the German articles with %1$d/%2$d correct questions!</string>
+    <string name="submit_button">Submit</string>
+    <string name="result_loss">Number of correct answers: %2$d \n Number of questions: %1$d</string>
+    <string name="result_win">Number of correct answers: %2$d \n Number of questions: %1$d \n A star among stars!</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="share">Share</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+</resources>
